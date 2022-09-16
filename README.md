@@ -17,7 +17,7 @@ Projeto construido do evento Next Level Week da Rocketseat.
 # Observações
 
 O layout do projeto prevalece igual ao desenvolido no projeto, porém com alterações nos icones da sessão 
-"Minhas Redes", foi efetuadas personalizações através de pesquisas para obter novos icones SVG
+"Minhas Redes", foram efetuadas personalizações através de pesquisas para obter novos icones SVG
 
 # Contato
 
